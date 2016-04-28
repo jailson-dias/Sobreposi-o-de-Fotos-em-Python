@@ -20,7 +20,7 @@ Antes de executar o arquivo foto.py, abra o arquivo entrada.txt:
 
 	5. Na quinta linha colocar a quantidade de interações do programa, ex:"10", sem as aspas
 	
-Depois de fazer isso execute o arquivo "foto.py".
+Depois de fazer isso execute o arquivo "foto.py", lembrando que os dois arquivos, "foto.py" e "entrada.txt" devem esta no mesmo diretorio.
 Ao terminar a execução as fotos resultantes ficaram salvas no endereço especificado, dentro da pasta com o nome especificado e enumeradas de 1 até n, considerando que 1 é 100% da imagem 1 e 0% da imagem 2 e n é 0% da imagem 1 e 100% da imagem 2.
 
 Obs: Quanto maior a resolução da imagem mais tempo vai passar para a imagem ser processada.
