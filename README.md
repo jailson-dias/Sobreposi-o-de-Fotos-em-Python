@@ -4,7 +4,9 @@ Para instalar o numpy use:
 
 	sudo apt-get install python-numpy
 
-a biblioteca Image ja vem instalada no python2 do ubuntu
+Para instalar a biblioteca Image use:
+
+	sudo apt-get install python-scipy
 
 Antes de executar o arquivo foto.py, abra o arquivo entrada.txt:
 	
