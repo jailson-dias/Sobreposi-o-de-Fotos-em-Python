@@ -7,6 +7,7 @@ Para instalar o numpy use:
 a biblioteca Image ja vem instalada no python2 do ubuntu
 
 Antes de executar o arquivo foto.py, abra o arquivo entrada.txt:
+	
 	1. coloque na primeira linha o endereço onde vai ser salvo as fotos resultantes das interações do programa, ex: "/home/user/Documentos", sem as aspas, ou para salvar no mesmo diretorio deixe a primeira linha em branco.
 
 	2. Na segunda linha coloque o nome da pasta onde vai ser salvo as fotos resultantes, ex:"fotos", sem as aspas.
